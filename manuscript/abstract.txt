@@ -3,3 +3,5 @@ A study of birds
 Birds are amazing. We studied some. They were blue and lived in Panama.
 
 There were seven species and 47 individuals.
+
+A bold claim about our data. 
